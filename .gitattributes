@@ -1,3 +1,4 @@
 
-*.html linguist-language=Clojurescript
-*.js  linguist-language=Java  
+*.html linguist-language=ClojureScript
+*.js  linguist-language=ClojureScript
+*.cljs linguist-language=ClojureScript
