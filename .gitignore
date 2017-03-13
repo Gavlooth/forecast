@@ -1,0 +1,14 @@
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+.cljs_rhino_repl
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.repl
+.nrepl-port
+.sw*
+*jar
+
